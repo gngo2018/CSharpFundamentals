@@ -1,0 +1,11 @@
+G:\Code\Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp2.1\ArrayFundamentals.deps.json
+G:\Code\Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp2.1\ArrayFundamentals.runtimeconfig.json
+G:\Code\Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp2.1\ArrayFundamentals.runtimeconfig.dev.json
+G:\Code\Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp2.1\ArrayFundamentals.dll
+G:\Code\Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\netcoreapp2.1\ArrayFundamentals.pdb
+G:\Code\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp2.1\ArrayFundamentals.csprojAssemblyReference.cache
+G:\Code\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp2.1\ArrayFundamentals.csproj.CoreCompileInputs.cache
+G:\Code\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp2.1\ArrayFundamentals.AssemblyInfoInputs.cache
+G:\Code\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp2.1\ArrayFundamentals.AssemblyInfo.cs
+G:\Code\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp2.1\ArrayFundamentals.dll
+G:\Code\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\netcoreapp2.1\ArrayFundamentals.pdb

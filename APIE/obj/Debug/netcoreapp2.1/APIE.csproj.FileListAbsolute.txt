@@ -1,0 +1,10 @@
+G:\Code\Fundamentals\CSharpFundamentals\APIE\bin\Debug\netcoreapp2.1\APIE.deps.json
+G:\Code\Fundamentals\CSharpFundamentals\APIE\bin\Debug\netcoreapp2.1\APIE.runtimeconfig.json
+G:\Code\Fundamentals\CSharpFundamentals\APIE\bin\Debug\netcoreapp2.1\APIE.runtimeconfig.dev.json
+G:\Code\Fundamentals\CSharpFundamentals\APIE\bin\Debug\netcoreapp2.1\APIE.dll
+G:\Code\Fundamentals\CSharpFundamentals\APIE\bin\Debug\netcoreapp2.1\APIE.pdb
+G:\Code\Fundamentals\CSharpFundamentals\APIE\obj\Debug\netcoreapp2.1\APIE.csproj.CoreCompileInputs.cache
+G:\Code\Fundamentals\CSharpFundamentals\APIE\obj\Debug\netcoreapp2.1\APIE.AssemblyInfoInputs.cache
+G:\Code\Fundamentals\CSharpFundamentals\APIE\obj\Debug\netcoreapp2.1\APIE.AssemblyInfo.cs
+G:\Code\Fundamentals\CSharpFundamentals\APIE\obj\Debug\netcoreapp2.1\APIE.dll
+G:\Code\Fundamentals\CSharpFundamentals\APIE\obj\Debug\netcoreapp2.1\APIE.pdb
